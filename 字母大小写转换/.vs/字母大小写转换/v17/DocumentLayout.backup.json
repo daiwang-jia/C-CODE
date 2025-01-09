@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u8BED\u8A00\\C-CODE\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB31D969-FC71-486C-A01B-72503F4C8F39}|\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362.vcxproj|D:\\C\u8BED\u8A00\\C-CODE\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\1.9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB31D969-FC71-486C-A01B-72503F4C8F39}|\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362.vcxproj|solutionrelative:\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\1.9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.9.c",
+              "DocumentMoniker": "D:\\C\u8BED\u8A00\\C-CODE\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\1.9.c",
+              "RelativeDocumentMoniker": "\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\1.9.c",
+              "ToolTip": "D:\\C\u8BED\u8A00\\C-CODE\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\1.9.c*",
+              "RelativeToolTip": "\u5B57\u6BCD\u5927\u5C0F\u5199\u8F6C\u6362\\1.9.c*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-09T11:23:51.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
