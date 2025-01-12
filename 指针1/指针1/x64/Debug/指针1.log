@@ -1,0 +1,3 @@
+﻿  1_10.c
+D:\C语言\C-CODE\指针1\指针1\1_10.c(43,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  指针1.vcxproj -> D:\C语言\C-CODE\指针1\x64\Debug\指针1.exe
