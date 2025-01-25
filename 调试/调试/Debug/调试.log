@@ -1,0 +1,2 @@
+﻿  调试.c
+D:\C语言\C-CODE\调试\调试\调试.c(102,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
