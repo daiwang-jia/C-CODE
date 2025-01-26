@@ -1,4 +1,2 @@
 ﻿  编程题.c
-D:\C语言\C-CODE\作业\编程\编程\编程题.c(26,2): warning C4013: “gets”未定义；假设外部返回 int
-D:\C语言\C-CODE\作业\编程\编程\编程题.c(28,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   编程.vcxproj -> D:\C语言\C-CODE\作业\编程\x64\Debug\编程.exe
