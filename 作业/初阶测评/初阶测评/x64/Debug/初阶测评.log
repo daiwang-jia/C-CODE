@@ -1,0 +1,4 @@
+﻿  初阶测评.c
+D:\C语言\C-CODE\作业\初阶测评\初阶测评\初阶测评.c(55,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\C语言\C-CODE\作业\初阶测评\初阶测评\初阶测评.c(56,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  初阶测评.vcxproj -> D:\C语言\C-CODE\作业\初阶测评\x64\Debug\初阶测评.exe
